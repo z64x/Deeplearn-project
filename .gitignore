@@ -1,0 +1,26 @@
+# Virtual environments
+.venv/
+venv/
+ENV/
+
+# Python caches
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Raw & cached data artifacts
+data/raw/*.zip
+data/raw/*.dat
+data/processed/*.parquet
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Course assignment PDF
+Proiecte_DL.pdf
