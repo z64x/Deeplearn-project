@@ -1483,7 +1483,7 @@ def build_slide_14_conclusions(prs: Presentation) -> None:
         6.26,
         11.53,
         0.64,
-        text="Thank you for your attention!  ·  Questions & Discussion\nCode, Notebooks & Technical Report: GitHub Repository (Project 2.6)",
+        text="Thank you for your attention!  ·  Questions & Discussion\nCode, Notebooks & Technical Report: https://github.com/z64x/Deeplearn-project",
         font_size=12.0,
         bold=True,
         color=C_TEXT_LIGHT,

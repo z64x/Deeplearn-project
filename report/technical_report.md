@@ -3,7 +3,7 @@
 **Project 2.6 — Gas Sensor Array Drift**  
 *Course Project Technical Report*
 
-> **Reproducibility & Source Code:** Complete experimental source code, notebooks, and reproduction instructions are maintained in the accompanying project repository (notebooks: `notebooks/01_eda_gas_sensor_drift.ipynb` and `notebooks/02_experiments_mlp_cnn_umap.ipynb`; modules: `src/data_loader.py`, `src/models.py`, `src/train_eval.py`). *(Insert public GitHub/Colab URL here before submission.)*
+> **Reproducibility & Source Code:** Complete experimental source code, computational notebooks, and reproduction instructions are publicly available on GitHub: https://github.com/z64x/Deeplearn-project (notebooks: `notebooks/01_eda_gas_sensor_drift.ipynb` and `notebooks/02_experiments_mlp_cnn_umap.ipynb`; modules: `src/data_loader.py`, `src/models.py`, `src/train_eval.py`).
 
 ---
 
